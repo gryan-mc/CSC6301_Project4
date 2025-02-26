@@ -1,5 +1,4 @@
-# CSC6301 Week 4 Project - 
-# Linked List Version
+# CSC6301 Week 4 Project - Linked List Version
 
 This project utilizies the Java Collections Framework to implement a program that reads a list of integers from standard input until a non-integer value is entered and saves them into a Linked List sorted from the smallest to the largest values. It displays both the initial list and the sorted list.
 
