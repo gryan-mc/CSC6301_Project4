@@ -1,5 +1,3 @@
-package Projects.Week4;
-
 import java.util.Collections;
 import java.util.Scanner;
 import java.util.LinkedList;
